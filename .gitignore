@@ -9,6 +9,9 @@ __pycache__/
 # idea
 .idea/
 
+*.h5
+*.keras
+datasets
 
 # Distribution / packaging
 .Python
